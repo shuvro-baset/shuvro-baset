@@ -7,7 +7,7 @@
 <a align="center" href="https://app.daily.dev/Shuvro_75"><img src="https://api.daily.dev/devcards/65868ab7c86e4104a71b55d439c27454.png?r=6c2"  width="400" alt="shuvro baset's Dev Card"/></a>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **BookShelf management system and NodeJs**
 
 - 🌱 I’m currently learning **React & Data Science**
 
