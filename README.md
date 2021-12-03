@@ -1,10 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80" height="275"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shuvro Baset</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center"> <a href="https://shuvro-baset.github.io/my-portfolio/" >Portfolio</a></h3>
+
+<p>I am Baset, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. Python is my first programming language and I build some web applications using python, Django, DRF, API. In my professional experience, I do some file conversions and automation using python. I have also experienced in Fiver and Upwork marketplaces. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+Programming is my passion and I love to play with the error.</p>
 
 
-<a align="center" href="https://app.daily.dev/Shuvro_75"><img src="https://api.daily.dev/devcards/65868ab7c86e4104a71b55d439c27454.png?r=6c2"  width="400" alt="shuvro baset's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/Shuvro_75"><img src="https://api.daily.dev/devcards/65868ab7c86e4104a71b55d439c27454.png?r=6c2"  width="300" alt="shuvro baset's Dev Card"/></a>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
@@ -15,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/shuvro-baset)**
 
-- 📫 How to reach me **shuvro.aps.75@gmail.com**
+- 📫 How to reach me **md.abdul.baset75@gmail.com**
 
 - ⚡ Fun fact **I Love to play cricket**
 
@@ -58,7 +61,7 @@
 
 ## Connect with me:
 <p align="left">
-
+<a href = "https://www.facebook.com/shuvro.baset.7/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://www.linkedin.com/in/shuvro-baset/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/BasetShuvro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/shuvro_baset/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
