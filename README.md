@@ -12,7 +12,7 @@ Programming is my passion and I love to play with the error.</p>
 
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
 
-- 🌱 I’m currently learning **React & Data Science**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Remote Job**
 
