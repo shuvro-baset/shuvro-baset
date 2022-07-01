@@ -10,11 +10,9 @@ Programming is my passion and I love to play with the error.</p>
 <a align="center" href="https://app.daily.dev/Shuvro_75"><img src="https://api.daily.dev/devcards/65868ab7c86e4104a71b55d439c27454.png?r=6c2"  width="300" alt="shuvro baset's Dev Card"/></a>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **BookShelf management system and NodeJs**
+- 🔭 I’m currently working on **Altesense Limited as a Junior Software Engineer**
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👯 I’m looking to collaborate on **Remote Job**
+- 🌱 I’m currently learning **Frappe and ERPNext**
 
 - 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/shuvro-baset)**
 
