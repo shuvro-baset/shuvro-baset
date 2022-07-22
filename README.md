@@ -8,6 +8,8 @@ Programming is my passion and I love to play with the error.</p>
 
 
 <a align="center" href="https://app.daily.dev/Shuvro_75"><img src="https://api.daily.dev/devcards/65868ab7c86e4104a71b55d439c27454.png?r=6c2"  width="300" alt="shuvro baset's Dev Card"/></a>
+<a align="center" href="_blank"><img src="https://honzaap.github.io/GithubCity/?name=shuvro-baset&year=2022&fbclid=IwAR3oT-Uq8yiqCJHwrv-FfzHvJxyXsLPQqKk7ahwjcgecTSqnPAx8XjTtBrM" /> </a>
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Altesense Limited as a Junior Software Engineer**
