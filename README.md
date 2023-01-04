@@ -14,7 +14,7 @@ Programming is my passion and I love to play with the error.</p>
 
 - 🌱 I’m currently learning **Frappe and ERPNext**
 
-- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/shuvro-baset)**
+- 👨‍💻 All of my projects are **[here](https://https://github.com/shuvro-baset)**
 
 - 📫 How to reach me **md.abdul.baset75@gmail.com**
 
